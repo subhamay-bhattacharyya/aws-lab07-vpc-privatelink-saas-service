@@ -1,5 +1,5 @@
 {
-  "stackName": "github-repo-template-stack",
+  "stackName": "aws-lab07-vpc-privatelink-saas-service-stack",
   "templateFile": "cloudformation/template.yaml",
   "parameterFile": "cloudformation/parameters.json"
 }
